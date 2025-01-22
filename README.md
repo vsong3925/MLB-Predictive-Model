@@ -1,10 +1,9 @@
 # MLB-Predictive-Model
 
-## Project Description: 
-- This project involves assessing a dataset containing all pitches from the 2011 MLB season and related metadata to build a predictive model. The goal is to predict the probability of the next pitch being a fastball, slider, change-up, or other pitch types. The tasks include:
+## Project Description: This project involves assessing a dataset containing all pitches from the 2011 MLB season and related metadata to build a predictive model. The goal is to predict the probability of the next pitch being a fastball, slider, change-up, or other pitch types. The tasks include:
 
 #### Data Analysis: 
-- Evaluate the dataset, perform exploratory analysis, and visualize key insights using plots and graphs.
+- Evaluate the dataset, perform exploratory analysis, and visualize key insights usin plots and graphs.
 
 #### Feature Engineering: 
 - Identify and prepare features relevant to the prediction task.
